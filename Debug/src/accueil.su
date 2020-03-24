@@ -1,0 +1,11 @@
+accueil.c:19:6:fenetre_horizontal	24	static
+accueil.c:31:6:fenetre_vertical	24	static
+accueil.c:43:6:titre_vertical	24	static
+accueil.c:56:6:titre_horizontal	24	static
+accueil.c:68:6:titre_texte1	8	static
+accueil.c:82:6:apregle	16	static
+accueil.c:114:6:play2	24	static
+accueil.c:155:6:personnage	16	static
+accueil.c:179:6:deplacement	16	static
+accueil.c:255:6:tire	24	static
+accueil.c:279:6:sup	16	static
